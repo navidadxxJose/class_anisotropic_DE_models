@@ -1,0 +1,8 @@
+README
+setup.py
+/Users/jose/project/repositories/2-form/class_public/python/../python/classy.pyx
+/Users/jose/project/repositories/class_anisotropic_DE/python/../python/classy.pyx
+classy.egg-info/PKG-INFO
+classy.egg-info/SOURCES.txt
+classy.egg-info/dependency_links.txt
+classy.egg-info/top_level.txt
